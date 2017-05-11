@@ -1,0 +1,9 @@
+기계학습 알고리즘 3분류
+1.사례가 있어야만 돌아가는 것 -> 알파고 (슈퍼바이즈 learning)
+2.강화학습
+
+http://darkpgmr.tistory.com/125
+
+http://knight76.tistory.com/entry/R-kmean%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
+
+https://www.python.org/downloads/release/python-361/
